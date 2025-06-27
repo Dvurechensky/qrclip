@@ -24,7 +24,7 @@ python3 qrclip.py
 ## Automation 📳
 
 > [!IMPORTANT]
-> For autonomy in `Linux`, create a service in folder `etc/systemd/system` под названием [qrclip.service](configs/qrclip.service)
+> For autonomy in `Linux`, create a service in folder `etc/systemd/system` named [qrclip.service](configs/qrclip.service)
 
 > service text:
 ```conf
